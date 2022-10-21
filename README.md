@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Projects**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js / Express.js**
 
 - 💬 Ask me about **Python and JavaScript**
 
