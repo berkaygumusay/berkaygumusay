@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Berkay Gümüşay</h1>
-<h3 align="center">A passionate Web developer from Turkey</h3>
+<h3 align="center">A passionate Web Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaygumusay&label=Profile%20views&color=0e75b6&style=flat" alt="berkaygumusay" /> </p>
 
 - 🔭 I’m currently working on **Web Projects**
 
-- 🌱 I’m currently learning **Node.js / Express.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Python and JavaScript**
 
