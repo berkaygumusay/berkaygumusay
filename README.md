@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaygumusay&label=Profile%20views&color=0e75b6&style=flat" alt="berkaygumusay" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision & ML**
+- 🔭 I’m currently working on **Computer Vision & Signal Processing**
 
 - 🌱 I’m currently learning **OpenCV**
 
