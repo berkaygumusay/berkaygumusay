@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaygumusay&label=Profile%20views&color=0e75b6&style=flat" alt="berkaygumusay" /> </p>
 
-- 🔭 I’m currently working on **Web Projects**
+- 🔭 I’m currently working on **Computer Vision & ML**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **OpenCV**
 
-- 💬 Ask me about **Python and JavaScript**
+- 💬 Ask me about **Python, C & JavaScript**
 
 - 📫 How to reach me **berkay.gumusay@std.yildiz.edu.tr**
 
