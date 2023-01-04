@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about **Python, C & JavaScript**
+- 💬 Ask me about **Python & C**
 
 - 📫 How to reach me **berkay.gumusay@std.yildiz.edu.tr**
 
