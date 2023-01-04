@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Computer Vision & Signal Processing**
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **Python, C & JavaScript**
 
