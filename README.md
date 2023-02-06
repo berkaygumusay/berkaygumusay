@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Berkay Gümüşay</h1>
 <h3 align="center">A Computer Engineering Student from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaygumusay&label=Profile%20views&color=0e75b6&style=flat" alt="berkaygumusay" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision & Signal Processing**
+- I’m currently working on **Computer Vision & Signal Processing**
 
-- 🌱 I’m currently learning **ML**
+- I’m currently learning **Machine Learning & Deep Learning**
 
-- 💬 Ask me about **Python & C**
+- Ask me about **Python & C**
 
-- 📫 How to reach me **berkay.gumusay@std.yildiz.edu.tr**
+- How to reach me **berkay.gumusay@std.yildiz.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
