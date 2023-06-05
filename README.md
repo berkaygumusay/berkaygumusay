@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Berkay Gümüşay</h1>
+<h1 align="center">Berkay Gümüşay</h1>
 <h3 align="center">A Computer Engineering Student from Turkey</h3>
 
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+-  I’m currently working on **Machine Learning Projects**
 
-- 🌱 I’m currently learning **Deep Learning / Computer Vision**
+-  I’m currently learning **Deep Learning / Computer Vision**
 
-- 💬 Ask me about **Python and C**
+-  Ask me about **Python and C**
 
-- 📫 How to reach me **berkay.gumusay@std.yildiz.edu.tr**
+-  How to reach me **berkay.gumusay@std.yildiz.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
