@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineering Student from Turkey</h3>
 
 
--  I’m currently working on **Machine Learning Projects**
+-  I’m currently working on **Deep Learning Projects**
 
 -  I’m currently learning **Deep Learning / Computer Vision**
 
